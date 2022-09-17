@@ -1,14 +1,14 @@
-# parcel-example
+# parcel-vue-example
 
-Inspired by the tutorial ["Building a web app with Parcel"](https://parceljs.org/getting-started/webapp/).
+Inspired by [remarkablemark/parcel-example](https://github.com/remarkablemark/parcel-example) and [Vue](https://parceljs.org/languages/vue/).
 
 ## Install
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/parcel-example.git
-cd parcel-example
+git clone https://github.com/remarkablemark/parcel-vue-example.git
+cd parcel-vue-example
 ```
 
 Install the dependencies:
