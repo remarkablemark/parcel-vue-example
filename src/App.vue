@@ -3,13 +3,6 @@
   <Button />
 </template>
 
-<style scoped>
-h1 {
-  color: hotpink;
-  font-family: cursive;
-}
-</style>
-
 <script>
 import Button from './Button.vue';
 
@@ -25,3 +18,10 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+h1 {
+  color: hotpink;
+  font-family: cursive;
+}
+</style>
